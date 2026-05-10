@@ -1,4 +1,4 @@
-# SchemaInsight — Adaptive Schema Integrity Analyzer
+# Redundancy Impact Analyzer — Adaptive Schema Integrity Analyzer
 
 A full-stack web application that analyzes how database schema changes affect data redundancy patterns.
 
